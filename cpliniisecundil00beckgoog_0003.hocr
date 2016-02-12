@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cpliniisecundil00beckgoog_0003.png"; bbox 0 0 771 1131; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 123 160 467 515">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 123 160 467 515">
+     <span class='ocr_line' id='line_1_1' title="bbox 123 160 467 515; baseline 0 616"><span class='ocrx_word' id='word_1_1' title='bbox 123 160 467 515; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 187 542 510 654">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 187 542 510 654">
+     <span class='ocr_line' id='line_1_2' title="bbox 215 542 482 568; baseline 0 -6"><span class='ocrx_word' id='word_1_2' title='bbox 215 543 302 565; x_wconf 50' lang='lat' dir='ltr'>narbam</span> <span class='ocrx_word' id='word_1_3' title='bbox 315 542 391 567; x_wconf 61' lang='lat' dir='ltr'><strong>«tunm</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 403 543 482 568; x_wconf 58' lang='lat' dir='ltr'><strong>fibram</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 292 598 407 608; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 292 598 327 608; x_wconf 66' lang='lat' dir='ltr'>&#39;rr-113</span> <span class='ocrx_word' id='word_1_6' title='bbox 336 598 376 608; x_wconf 70' lang='lat' dir='ltr'><strong>Gli-&#39;r</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 385 598 407 608; x_wconf 75' lang='lat' dir='ltr'>OF</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 187 635 510 654; baseline 0.003 -4"><span class='ocrx_word' id='word_1_8' title='bbox 187 635 318 651; x_wconf 76' lang='lat' dir='ltr'>STEPHEN</span> <span class='ocrx_word' id='word_1_9' title='bbox 340 635 510 654; x_wconf 76' lang='lat' dir='ltr'>SALISBURY‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 232 682 463 697">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 232 682 463 697">
+     <span class='ocr_line' id='line_1_5' title="bbox 232 682 463 697; baseline 0 -2"><span class='ocrx_word' id='word_1_10' title='bbox 232 682 258 695; x_wconf 76' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_11' title='bbox 269 682 395 697; x_wconf 77' lang='lat' dir='ltr'>WORCESTER.</span> <span class='ocrx_word' id='word_1_12' title='bbox 407 682 463 695; x_wconf 80' lang='lat' dir='ltr'><strong>MAss.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 222 771 465 825">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 222 771 465 825">
+     <span class='ocr_line' id='line_1_6' title="bbox 222 771 465 825; baseline -0.021 -19"><span class='ocrx_word' id='word_1_13' title='bbox 222 778 254 806; x_wconf 59' lang='lat' dir='ltr'>M&lt;</span> <span class='ocrx_word' id='word_1_14' title='bbox 275 771 465 825; x_wconf 45' lang='grc' dir='ltr'>κΜωζμῑςῆς.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
